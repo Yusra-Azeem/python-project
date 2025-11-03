@@ -71,8 +71,3 @@ snake.py       # Main game file
 ## ✅ License
 
 This project is open-source and free to use.
-
-
-
-Just tell me!
-
